@@ -1,0 +1,5786 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "name": "12th and Howe Play Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.372985,
+          47.636097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alice Ball Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.355020,
+          47.688002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "12th Ave S Viewpoint",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317765,
+          47.577953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "12th Ave Square Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316455,
+          47.607427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "14th Ave NW Boat Ramp",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.373536,
+          47.660775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3001 E Madison",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.293173,
+          47.625169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "32nd Ave W Boat Launch",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.398685,
+          47.632345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6th Ave NW Pocket Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.363566,
+          47.684202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A. B. Ernst Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.348826,
+          47.650087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adams Street Boat Ramp",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.267178,
+          47.565219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Davis Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.298752,
+          47.72016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alki Beach Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.402173,
+          47.582912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alki Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407312,
+          47.578497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alvin Larkins Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.288745,
+          47.614318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amy Yee Tennis Center",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29742,
+          47.584876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andover Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409993,
+          47.568517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arapahoe Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409139,
+          47.65129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arroyos Natural Area",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387822,
+          47.505679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantic City Boat Ramp",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.263078,
+          47.522834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantic Street Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30566,
+          47.589165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B.F. Day Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.349222,
+          47.65603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagley Viewpoint",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318347,
+          47.643015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baker Park on Crown Hill",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.374794,
+          47.690119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballard Commons Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.385487,
+          47.670549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballard Corners Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.379116,
+          47.674186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballard Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39155,
+          47.672786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banner Way Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32343,
+          47.685762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar-S Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416054,
+          47.575195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayview Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386786,
+          47.643802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayview-Kinnear (Lower Kerry Park)",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.360626,
+          47.628948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beacon Hill Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315325,
+          47.586226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beacon Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318716,
+          47.596236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaver Pond Natural Area on Thornton Creek",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323168,
+          47.703288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beck Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312027,
+          47.671888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beer Sheva Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.263223,
+          47.524191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bell Street Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344866,
+          47.614696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellevue Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327658,
+          47.626904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belltown Cottage Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.350776,
+          47.613889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belmont Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.324408,
+          47.625727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belvedere Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.376896,
+          47.580673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belvoir Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283215,
+          47.655124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benefit Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.284294,
+          47.518998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benvenuto Viewpoint",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.303029,
+          47.589841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergen Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384495,
+          47.66833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhy Kracke Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.348403,
+          47.630426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bitter Lake Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.349314,
+          47.724209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bitter Lake Reservoir Open Space",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.348583,
+          47.731181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blaine Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.364152,
+          47.626809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Dog Pond",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.297814,
+          47.589982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Ridge Circle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.380095,
+          47.70439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Ridge Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.381171,
+          47.703423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boren Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320952,
+          47.604999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boylston Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32094,
+          47.609976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bradner Gardens Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295426,
+          47.587419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brighton Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2821,
+          47.548387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broadview Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.355836,
+          47.717936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bryant Neighborhood Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283644,
+          47.675299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burke-Gilman Playground Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.282623,
+          47.666634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cal Anderson Park and Bobby Morris Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319134,
+          47.617013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "California Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386696,
+          47.585641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Long",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.373161,
+          47.556242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carkeek Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.379763,
+          47.712194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carleton Center",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.406385,
+          47.639414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carleton Highlands",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415934,
+          47.650028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascade Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.358092,
+          47.666216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascade Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332355,
+          47.621405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cedar Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.288042,
+          47.725808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cesar Chavez Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32562,
+          47.52678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charles Richey Sr Viewpoint",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413877,
+          47.57242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheasty Boulevard",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.299204,
+          47.572682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheasty GS: Cheasty Blvd",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.299204,
+          47.572682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinook Beach Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.258376,
+          47.520135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christie Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319072,
+          47.659308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hall Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329875,
+          47.602022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315542,
+          47.552012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coe Play Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.365952,
+          47.640108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "College Street Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.294616,
+          47.582697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "College Street Ravine",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.395546,
+          47.583406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colman Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.288612,
+          47.58547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colman Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301957,
+          47.587625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.287394,
+          47.559792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Commodore Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40014,
+          47.66538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corliss Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330874,
+          47.665198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cormorant Cove",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.412089,
+          47.570984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cottage Grove Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.365311,
+          47.554364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Counterbalance Park: An Urban Oasis",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.356323,
+          47.625683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cowen Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313072,
+          47.672596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crescent Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333029,
+          47.684317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crown Hill Glen",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.381394,
+          47.693703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crown Hill Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.373976,
+          47.696071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daejeon Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312163,
+          47.59192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dahl Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.299309,
+          47.685267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakota Place Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387164,
+          47.566844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "David Rodgers Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.359484,
+          47.644135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Day Street Boat Ramp",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.285154,
+          47.59026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dearborn Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.296225,
+          47.553389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delridge Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.364371,
+          47.562842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denny Blaine Lake Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.284838,
+          47.61833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denny Blaine Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.280548,
+          47.62011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denny Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341049,
+          47.61913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Discovery Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415282,
+          47.66083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Don Armeni Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.382295,
+          47.59274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Blanche Lavizzo Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.304179,
+          47.600278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Jose Rizal Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318094,
+          47.593859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duwamish Waterway Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319694,
+          47.531156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "E.C. Hughes Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.369545,
+          47.532805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Montlake Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301441,
+          47.646662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Portal Viewpoint",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.287893,
+          47.590222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Queen Anne Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.353786,
+          47.636139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastlake Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.328918,
+          47.62841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastmont Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.405566,
+          47.637689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eddie Vine Boat Ramp",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403454,
+          47.686852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ella Bailey Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39106,
+          47.640584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emma Schmitz Memorial Overlook",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40712,
+          47.562898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Endolyne Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39438,
+          47.514542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ercolini Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.394275,
+          47.515021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmount Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.380549,
+          47.554041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairview Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325368,
+          47.647413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairview Walkway",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.328967,
+          47.630501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fauntleroy Creek Ravine",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392498,
+          47.522599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fauntleroy Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.383222,
+          47.5192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fauntleroy Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.379834,
+          47.562715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferdinand Street Boat Ramp",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.264912,
+          47.561358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Firehouse Mini Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308558,
+          47.608448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Hill Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325512,
+          47.611906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fletcher Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.261484,
+          47.519093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flo Ware Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295868,
+          47.599557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freeway Park - Jim Ellis Freeway Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330904,
+          47.609472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fremont Canal Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357864,
+          47.651802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fremont Peak Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.356671,
+          47.661108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frink Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.290256,
+          47.599506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Froula Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313978,
+          47.680538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garfield Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301412,
+          47.607098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gas Works Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334906,
+          47.645639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Genesee Park and Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.278744,
+          47.564856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgetown Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.321396,
+          47.55162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerber Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.296568,
+          47.607709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilman Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.369684,
+          47.667292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Gardens Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403454,
+          47.686852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Army of the Republic Cemetery",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316261,
+          47.636461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green Lake Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330394,
+          47.678938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenwood Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.350647,
+          47.693048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenwood Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.361032,
+          47.668902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greg Davis Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.366001,
+          47.55437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamilton Viewpoint Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38907,
+          47.590748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harborview Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323693,
+          47.603014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrison Ridge Greenbelt",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.290339,
+          47.619711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harvard-Miller/Roanoke Annex",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.321643,
+          47.641091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herring's House Park (T'ul'altx)",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.349545,
+          47.561514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hiawatha Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384965,
+          47.578272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highland Drive Parkway",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.353337,
+          47.629736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highland Park Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.349034,
+          47.52738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highland Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.355466,
+          47.629656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hing Hay Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325435,
+          47.598609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hitt's Hill Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28455,
+          47.554207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homer Harris Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.300994,
+          47.617309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horiuchi Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318982,
+          47.603132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horton Hill Corridor",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.287187,
+          47.573846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howell Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.280313,
+          47.617518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hubbard Homestead",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.324674,
+          47.709964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunter Boulevard",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.285153,
+          47.573877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hutchinson Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.260062,
+          47.514312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyde Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.282887,
+          47.632304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "I-5 Colonnade",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323409,
+          47.634898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Interbay Athletic Complex",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.379191,
+          47.647239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Interbay Golf",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.378455,
+          47.643753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Interlaken Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308316,
+          47.636257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "International Children's Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323412,
+          47.596897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inverness Ravine Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.280809,
+          47.691145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jackson Park Golf Course",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319103,
+          47.729254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japanese Garden",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2952,
+          47.627312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jefferson Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311441,
+          47.568067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jefferson Park Golf Course",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305242,
+          47.567202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jimi Hendrix Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.300842,
+          47.588907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John C. Little, Sr. Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.286686,
+          47.539048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judge Charles M. Stokes Overlook",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.306962,
+          47.591632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judkins Park and Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.303951,
+          47.592425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junction Plaza",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.385491,
+          47.561204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katie Black's Garden",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317642,
+          47.590421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kerry Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.359874,
+          47.629023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keystone Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333769,
+          47.670304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilbourne Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.388277,
+          47.52133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingfisher Natural Area on Thornton Creek",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312411,
+          47.704889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinnear Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.367207,
+          47.627317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirke Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.368021,
+          47.680338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiwanis Memorial Preserve Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401004,
+          47.66197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiwanis Memorial Preserve Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403237,
+          47.660251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kobe Terrace",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.324494,
+          47.60042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kubota Garden",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.266125,
+          47.513543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake City Memorial Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295266,
+          47.718819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake City Mini Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295875,
+          47.71911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake People Park (Xacua'bs)",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292012,
+          47.569133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Union Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338848,
+          47.627015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakeridge Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.247429,
+          47.506033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakeridge Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.246841,
+          47.510319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakeview Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.284732,
+          47.62205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakeview Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325705,
+          47.62939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakewood Moorage",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.268295,
+          47.562981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakewood Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27006,
+          47.558831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakewood Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28372,
+          47.576058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lambert Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283837,
+          47.632017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landing Parkway",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283396,
+          47.573861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurelhurst Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.278019,
+          47.65989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurelhurst Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.277487,
+          47.652696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LaVilla Meadows Natural Area on Thornton Creek",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.299926,
+          47.701262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lawton Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391158,
+          47.655065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leschi Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.286548,
+          47.600931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leschi-Lake Dell Natural Area",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.287835,
+          47.604695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lewis Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.314435,
+          47.592857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Licorice Fern Natural Area on Thornton Creek",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315433,
+          47.723106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Licton Springs Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338735,
+          47.698542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.396012,
+          47.531176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linden Orchard Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347727,
+          47.678016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Brook Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.294567,
+          47.731387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Llandover Woods Greenspace",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.364545,
+          47.733024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longfellow Creek Greenspace",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.363435,
+          47.530167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louisa Boren Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311628,
+          47.635274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lowman Beach Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.396728,
+          47.540367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loyal Heights Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38324,
+          47.684106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lynn Street Mini Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32975,
+          47.639849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MacLean Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.345276,
+          47.636191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.276602,
+          47.635779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison Park North Beach",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.276118,
+          47.639084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrona Briar Patch",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.284261,
+          47.615231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrona Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.282679,
+          47.609299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrona Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.289885,
+          47.611022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrona Ravine",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.285412,
+          47.611456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnolia Greenbelt",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.389073,
+          47.636006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnolia Manor Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390877,
+          47.651085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnolia Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.398993,
+          47.632366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnolia Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.399472,
+          47.643746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnolia Tidelands Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391648,
+          47.630922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnuson Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.255084,
+          47.680304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Leaf Community Garden",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322269,
+          47.70326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Leaf Resevoir Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315613,
+          47.689015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple School Ravine",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308342,
+          47.551071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Wood Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318845,
+          47.560041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marra-Desimone Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329372,
+          47.522124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marshall Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.366805,
+          47.629436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martha Washington Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.260054,
+          47.542398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martin Luther King, Jr. Memorial",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.297165,
+          47.582756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marvin's Garden",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384972,
+          47.667976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matthews Beach Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.271785,
+          47.694564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayfair Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.353356,
+          47.643241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McClellan Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311648,
+          47.578695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McGilvra Boulevard",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.282116,
+          47.626925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McGilvra Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313032,
+          47.614233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McGraw Square",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337587,
+          47.61299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadowbrook Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.293493,
+          47.705771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Me-Kwa-Mooks Natural Area",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403424,
+          47.563782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Me-Kwa-Mooks Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.404006,
+          47.563167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meridian Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332557,
+          47.664159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miller Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.306261,
+          47.621433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miller Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305711,
+          47.620311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mineral Springs Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336528,
+          47.705755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mock Creek Ravine",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28962,
+          47.699037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montlake Boulevard",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30474,
+          47.645971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montlake Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310081,
+          47.642407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Junction",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387528,
+          47.545507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Baker Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.288481,
+          47.580957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Baker Ridge Viewpoint",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292616,
+          47.589983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Claire Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28642,
+          47.580737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myrtle Edwards Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36087,
+          47.618767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myrtle Reservoir",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.376716,
+          47.539206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nantes Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.397063,
+          47.579565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nathan Hale Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292028,
+          47.707715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NE 60th Street Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322634,
+          47.671728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nora's Woods",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.294573,
+          47.608732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Beach Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390258,
+          47.69471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Passage Point Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322428,
+          47.653963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northacres Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.326124,
+          47.721775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northeast Queen Anne Greenbelt",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.345011,
+          47.635866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northgate Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322424,
+          47.705194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northlake Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320826,
+          47.654365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northwest 60th St. Viewpoint",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40656,
+          47.672184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Observatory Courts",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.355134,
+          47.631342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Occidental Square",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333272,
+          47.600463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympic Sculpture Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35418,
+          47.616577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open Water Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386693,
+          47.629555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orchard Street Ravine",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.380151,
+          47.538315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Othello Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.278105,
+          47.536214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxbow Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.321583,
+          47.54499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Home Circle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305464,
+          47.67005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkmont Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410083,
+          47.640142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parsons Gardens",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.366082,
+          47.629868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peace Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98105,
+          -122.323616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pelly Place Natural Area",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39309,
+          47.541492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peppi's Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.290602,
+          47.602723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piers 62 and 63",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.345237,
+          47.608656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pigeon Point Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.356966,
+          47.563271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinehurst Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.314628,
+          47.716436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinehurst Pocket Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308222,
+          47.714186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pioneer Square",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333886,
+          47.602076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pipers Creek Natural Area",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.364699,
+          47.714678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plum Tree Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.299142,
+          47.617053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plymouth Pillars Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329092,
+          47.614124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Powell Barnett Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295998,
+          47.605197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pratt Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.307257,
+          47.601407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prefontaine Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330883,
+          47.601844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prentis I. Frazier Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301614,
+          47.622895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pritchard Island Beach",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26283,
+          47.528948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puget Boulevard Commons",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.365575,
+          47.555356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puget Creek Greenspace",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.358556,
+          47.55187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puget Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.356922,
+          47.558473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puget Ridge Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.359947,
+          47.547368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Anne Bowl Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.359711,
+          47.645599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rainbow Point",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320476,
+          47.682713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rainier Beach Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.273136,
+          47.525041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rainier Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.359434,
+          47.667567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rainier Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2862,
+          47.561817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ravenna Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305705,
+          47.671404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ravenna Park Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30367,
+          47.668089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ravenna Ravine",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301707,
+          47.674823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ravenna Woods",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.303161,
+          47.662559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ravenna-Eckstein Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.304964,
+          47.676873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Regrade Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344776,
+          47.614346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverview Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.348688,
+          47.54101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roanoke Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320185,
+          47.643723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roanoke St. Mini Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329327,
+          47.643193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rogers Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325257,
+          47.642601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ross Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.361347,
+          47.659718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotary Viewpoint",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.375859,
+          47.560222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roxhill Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.368881,
+          47.519496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacajawea Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308132,
+          47.697132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salmon Bay Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.381343,
+          47.679297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sam Smith Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.297814,
+          47.589982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandel Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.358701,
+          47.695134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schmitz Boulevard",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.405592,
+          47.577899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schmitz Preserve Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400425,
+          47.574375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seacrest Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.381226,
+          47.589941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle Aquarium",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.342836,
+          47.607411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seola Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.374332,
+          47.50039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seven Hills Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312534,
+          47.617684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seward Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.250639,
+          47.54923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sierra Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.282492,
+          47.573282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smith Cove",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387679,
+          47.632602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solstice Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390347,
+          47.536414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soundview Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.378878,
+          47.695416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soundview Terrace",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37141,
+          47.640849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Park Meadow",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323649,
+          47.520795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Park Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.324159,
+          47.528016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Passage Point Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322486,
+          47.652087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spring Street Mini Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3124,
+          47.611801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spruce Street Mini Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.304648,
+          47.603091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mark's Greenbelt",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322174,
+          47.63115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stan Sayres Memorial Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.277162,
+          47.571222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stevens Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310563,
+          47.577122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stevens Triangle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283592,
+          47.619443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sturgus Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.314376,
+          47.59409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sturtevant Ravine",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.268561,
+          47.51783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325708,
+          47.627081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit Slope Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325298,
+          47.619832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunnyside Ave N Boat Ramp",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330723,
+          47.650292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Hill Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400938,
+          47.684034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357602,
+          47.666686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SW Queen Anne Greenbelt",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.373209,
+          47.633353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T.T. Minor Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310543,
+          47.613111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tashkent Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323444,
+          47.62379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terry Pettus Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329689,
+          47.636742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thayer Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.250038,
+          47.510613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas C. Wales Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344468,
+          47.640523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas St. Mini Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.326216,
+          47.621036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thorndyke Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390161,
+          47.635099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thornton Creek Park #1",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.307629,
+          47.707034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thyme Patch Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.395214,
+          47.670709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilikum Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347411,
+          47.618382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trolley Hill Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347039,
+          47.635143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Union Station Square",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330086,
+          47.599362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University Circle",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.275181,
+          47.67203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University Lake Shore Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28006,
+          47.718937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319312,
+          47.664447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ursula Judkins Viewpoint",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390232,
+          47.632049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Asselt Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.294068,
+          47.539446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victor Steinbrueck Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.343869,
+          47.610153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victory Creek Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315554,
+          47.709155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victory Heights Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.307834,
+          47.705672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "View Ridge Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.279969,
+          47.679747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viretta Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.282003,
+          47.61875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virgil Flaim Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.299374,
+          47.717955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volunteer Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315568,
+          47.630378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volunteer Park Conservatory",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315708,
+          47.632063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallingford Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337444,
+          47.658544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallingford Steps",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336152,
+          47.647345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walt Hundley Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.373415,
+          47.54017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ward Springs Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.349245,
+          47.627747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warren G. Magnuson Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.255084,
+          47.680304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Park Arboretum",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.294835,
+          47.636477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Park Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.293925,
+          47.627064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Street Public Boat Landing",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336045,
+          47.601007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterfront Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.342196,
+          47.606778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterway 19",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332567,
+          47.646349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weather Watch Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409506,
+          47.568247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Webster Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.397851,
+          47.677832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wedgwood Square",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.294772,
+          47.688151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Duwamish Greenbelt",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.356966,
+          47.563271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Ewing Mini Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.360602,
+          47.65205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Montlake Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30982,
+          47.646219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Queen Anne Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.359504,
+          47.635514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Seattle Golf Course",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.369657,
+          47.55986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Seattle Stadium",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.374348,
+          47.562826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westcrest Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341719,
+          47.525783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westlake Greenbelt",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34338,
+          47.641586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westlake Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33724,
+          47.611099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westlake Square",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337285,
+          47.613627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Grose Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29294,
+          47.618021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williams Place",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313094,
+          47.619809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolf Creek Ravine Natural Area",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.352314,
+          47.639775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodland Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344218,
+          47.668906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodland Park Rose Garden",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35054,
+          47.666499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodland Park Zoo",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35043,
+          47.666183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yesler Playfield",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320083,
+          47.601262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "York Park",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295537,
+          47.570461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "York Playground",
+        "visit": "#8EDD65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.290713,
+          47.572695
+        ]
+      }
+    }
+  ]
+}]
